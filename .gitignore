@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Data and weights (if you want to exclude)
+dataset/
+*.pt
