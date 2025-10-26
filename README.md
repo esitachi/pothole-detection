@@ -1,6 +1,6 @@
 # Pothole Detection - Project
 
-This repository was prepared from the uploaded project zip.
+
 
 ## Structure
 ```
