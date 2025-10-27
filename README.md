@@ -7,7 +7,7 @@
 /mnt/data/pothole-detection-ready
 ├── app/                      # Streamlit app
 │   └── app.py
-├── models/                   # Training & test scripts (from your upload)
+├── models/                   # Training & test scripts 
 ├── runs/                     # Trained model weights (kept here)
 │   └── detect/train/weights/best.pt
 ├── dataset/                  # (copied if present in your upload)
